@@ -3,7 +3,7 @@
 <h1 align="center">Hii 👋, I'm Kratika Agarwal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw1FvGmxrz5ABhECwDkaPSuc&ust=1707509551652000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjF35HHnIQDFQAAAAAdAAAAABAu">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsalakhas%2Fsalakhas&psig=AOvVaw39UnDvXjg1_kEgV9FINnW8&ust=1707510297727000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCArtjJnIQDFQAAAAAdAAAAABAR">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kratika-210&label=Profile%20views&color=0e75b6&style=flat" alt="kratika-210" /> </p>
